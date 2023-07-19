@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Alon Cohen</h1>
 <h3 align="center">Passionate fullstack developer from Israel</h3>
-<h4 align="center">Delivery site is the main project of the course, the project was to build a site to a restaurant that want to open a delivry site for the products he sells.
-  the project included client-server architecture.
-  we practiced data management and perform CRUD, starting with Sqlite and than update it to run on Postgresql,
-  so it could run on microsoft azure cloud, In the project i used Python & Django for the Backend and Html & Css for the Frontend.
-  I learnd a lot from the project and hope to find a job in the field and to bring my skills to the fore.
+<h4 align="center">Delivery The main project of the course was to build a restaurant delivery site for the products it sells. The project involved a client-server architecture, and we practiced data management, performing CRUD operations. Initially, we used Sqlite, but later we upgraded it to run on Postgresql, enabling it to run on Microsoft Azure cloud. For the backend, I used Python and Django, and for the frontend, I utilized HTML and CSS.
+
+This project was a great learning experience, and I gained valuable skills from it. Now, I'm eager to find a job in the field and apply my expertise effectively.
+
+You can access the website via this URL: https://delivrysite.blacktree-6e79657f.germanywestcentral.azurecontainerapps.io/.
+
+For site management, you can log in with the following credentials:
+
+Username: alon1
+Password: 1234
+(Alon1 is the superuser for the site).
 </h4>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
