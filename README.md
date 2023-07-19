@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alon Cohen</h1>
 <h3 align="center">Passionate fullstack developer from Israel</h3>
-<h4 align="center">Delivery The main project of the course was to build a restaurant delivery site for the products it sells. The project involved a client-server architecture, and we practiced data management, performing CRUD operations. Initially, we used Sqlite, but later we upgraded it to run on Postgresql, enabling it to run on Microsoft Azure cloud. For the backend, I used Python and Django, and for the frontend, I utilized HTML and CSS.
+<h4 align="center">The main project of the course was to build a restaurant delivery site for the products it sells. The project involved a client-server architecture, and we practiced data management, performing CRUD operations. Initially, we used Sqlite, but later we upgraded it to run on Postgresql, enabling it to run on Microsoft Azure cloud. For the backend, I used Python and Django, and for the frontend, I utilized HTML and CSS.
 
 This project was a great learning experience, and I gained valuable skills from it. Now, I'm eager to find a job in the field and apply my expertise effectively.
 
