@@ -4,7 +4,7 @@
 
 This project was a great learning experience, and I gained valuable skills from it. Now, I'm eager to find a job in the field and apply my expertise effectively.
 
-In the terminal you can run: python manage.py runserver to try out the website.
+In the terminal you can run: "python manage.py runserver" to try out the website.
 
 For site management, you can log in with the following credentials:
 
