@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alon Cohen</h1>
-<h3 align="center">A passionate fullstack developer from Israel</h3>
+<h3 align="center">Passionate fullstack developer from Israel</h3>
+<h4 align="center">Delivery site is the main project of the course, the project was to build a site to a restaurant that want to open a delivry site for the products he sells.
+  the project included client-server architecture.
+  we practiced data management and perform CRUD, starting with Sqlite and than update it to run on Postgresql,
+  so it could run on microsoft azure cloud, In the project i used Python & Django for the Backend and Html & Css for the Frontend.
+  I learnd a lot from the project and hope to find a job in the field and to bring my skills to the fore.
+</h4>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alon1995&label=Profile%20views&color=0e75b6&style=flat" alt="alon1995" /> </p>
