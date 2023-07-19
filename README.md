@@ -4,13 +4,9 @@
 
 This project was a great learning experience, and I gained valuable skills from it. Now, I'm eager to find a job in the field and apply my expertise effectively.
 
-In the terminal you can run: "python manage.py runserver" to try out the website.
+You can access the website via this URL: https://delivrysite.blacktree-6e79657f.germanywestcentral.azurecontainerapps.io/.
 
-For site management, you can log in with the following credentials:
-
-Username: alon1
-Password: 1234
-(Alon1 is the superuser for the site).
+To make a new order a manager need to approve your order, if you want to try out the management of the website reach me :)
 </h4>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
