@@ -5,10 +5,6 @@
 🔧 I was responsible for implementing a robust client-server architecture and practicing various data management techniques, including CRUD operations. Initially, we used Sqlite, but later we upgraded to Postgresql, which enabled us to deploy the project on Microsoft Azure's cloud infrastructure. For the backend, I utilized Python and Django, while the frontend was developed using HTML and CSS.
 
 📚 This project equipped me with practical knowledge and hands-on experience, and I'm now eager to leverage these skills in a professional setting. I'm actively seeking opportunities in the field where I can contribute and grow as a developer.
-
-💻 You can access the project I worked on via this URL: Restaurant Delivery Website.
-
-🍔 If you're interested in exploring the website or have any questions about my work, feel free to reach out to me. I'd be happy to provide further information or discuss similar projects.
 </h4>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
