@@ -2,9 +2,12 @@
 <h3 align="center">Passionate full-stack developer based in Israel.</h3>
 <h4 align="center">🚀 During my time at college, I worked on a mission-critical project to build a restaurant delivery website from scratch. This project was a fantastic learning experience that allowed me to hone my skills and gain valuable insights into full-stack development.
 
-🔧 I was responsible for implementing a robust client-server architecture and practicing various data management techniques, including CRUD operations. Initially, we used Sqlite, but later we upgraded to Postgresql, which enabled us to deploy the project on Microsoft Azure's cloud infrastructure. For the backend, I utilized Python and Django, while the frontend was developed using HTML and CSS.
+🔧 I was responsible for implementing a robust client-server architecture and practicing various data management techniques, 
+including CRUD operations. Initially, we used Sqlite, but later we upgraded to Postgresql, which enabled us to deploy the project on Microsoft Azure's cloud infrastructure. For the backend, I utilized Python and Django, while the frontend was developed using HTML and CSS.
 
-📚 This project equipped me with practical knowledge and hands-on experience, and I'm now eager to leverage these skills in a professional setting. I'm actively seeking opportunities in the field where I can contribute and grow as a developer.
+📚 This project equipped me with practical knowledge and hands-on experience, 
+and I'm now eager to leverage these skills in a professional setting. 
+I'm actively seeking opportunities in the field where I can contribute and grow as a developer.
 </h4>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
